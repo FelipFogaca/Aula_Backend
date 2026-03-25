@@ -1,0 +1,56 @@
+[
+  {
+    "id": "exp_1774394650237",
+    "title": "Supermercado",
+    "amount": 150.5,
+    "category": "Alimentação",
+    "date": "2026-03-10",
+    "description": "Compra semanal",
+    "createdAt": "2026-03-24T23:24:10.237Z"
+  },
+  {
+    "id": "exp_1774395014687",
+    "title": "Gasolina",
+    "amount": 120,
+    "category": "Transporte",
+    "date": "2026-03-15",
+    "description": "Abastecimento do carro",
+    "createdAt": "2026-03-24T23:30:14.687Z"
+  },
+  {
+    "id": "exp_1774395021910",
+    "title": "Gasolina",
+    "amount": 120,
+    "category": "Transporte",
+    "date": "2026-03-15",
+    "description": "Abastecimento do carro",
+    "createdAt": "2026-03-24T23:30:21.910Z"
+  },
+  {
+    "id": "exp_1774395140181",
+    "title": "Conta de Luz",
+    "amount": 150,
+    "category": "Moradia",
+    "date": "2026-03-05",
+    "description": "Fatura mensal",
+    "createdAt": "2026-03-24T23:32:20.181Z"
+  },
+  {
+    "id": "exp_1774395141189",
+    "title": "Conta de Luz",
+    "amount": 230.75,
+    "category": "Moradia",
+    "date": "2026-03-05",
+    "description": "Fatura mensal",
+    "createdAt": "2026-03-24T23:32:21.189Z"
+  },
+  {
+    "id": "exp_1774396551757",
+    "title": "Cinema",
+    "amount": 45,
+    "category": "Lazer",
+    "date": "2026-03-18",
+    "description": "Ingresso + pipoca",
+    "createdAt": "2026-03-24T23:55:51.757Z"
+  }
+]
