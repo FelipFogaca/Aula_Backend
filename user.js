@@ -22,7 +22,7 @@ class User {
         this.users.push(newUser);
 
         return newUser;
-    }
+    } 
 
     update(id, email, password, name) {
         const index = this.users.findIndex(u => u.id === id);
